@@ -1,0 +1,11 @@
+@import 'reset.css';
+
+/* h1El.style.marginBottom = '0.3em';
+    h1El.style.fontSize = '35px';
+    h1El.style.fontWeight = 'bold'; */
+
+.largeEl {
+  margin-bottom: 0.3em;
+  font-size: 100px;
+  font-weight: normal;
+}
